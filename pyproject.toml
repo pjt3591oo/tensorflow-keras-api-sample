@@ -8,8 +8,6 @@ authors = ["pjt3591oo <pjt3591oo@gmail.com>"]
 python = "3.10"
 tensorflow = "^2.8.0"
 numpy = "^1.22.3"
-pydot = "^1.4.2"
-graphviz = "^0.19.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
